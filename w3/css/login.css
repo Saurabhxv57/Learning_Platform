@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    justify-content: center;
+    padding-top: 130px;
+    background-color: rgb(235, 235, 235);
+}
+
+.input {
+    height: 40px;
+    width: 300px;
+    margin: 10px;
+}
+
+.h1 {
+    color: rgb(117, 117, 117);
+}
+
+.login {
+    padding: 10px 20px 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border: solid transparent;
+}
+
+.login:hover {
+    box-shadow: 2px 2px 5px grey;
+}
+
+#error {
+    color: red;
+}
